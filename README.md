@@ -31,31 +31,3 @@ Business Requirements:
 •	Analyze the frequency and amounts of transfers between accounts and between different banks.
 •	Evaluate the performance of each ATM location in terms of uptime, maintenance issues, and customer satisfaction.
 •	Identify outliers and anomalies in the transaction data.
-
-Deliverables:
-•	A report containing insights on customer demographics, transaction patterns, and popular ATM services.
-•	A dashboard with visualizations that provide an overview of Wisabi Bank's ATM transactions and highlight key insights.
-•	Recommendations for improving the bank's operations based on the findings from the analysis.
-
-Assumptions:
-•	The data provided is accurate and complete.
-•	The data is stored in a relational database.
-•	The data has been cleaned and pre-processed to remove any inconsistencies or errors.
-•	The data is accessible through a secure connection.
-•	The project will be completed within six weeks.
-
-Constraints:
-•	The data cannot be shared with unauthorized personnel.
-•	The data cannot be modified or altered in any way.
-•	The project must comply with data privacy regulations.
-•	The project must be completed within the allocated time and budget.
-
-Project Timeline:
-•	Week 1: Data gathering and preprocessing
-•	Week 2-3: Data analysis and visualization
-•	Week 4: Presentation of findings to Wisabi Bank
-•	Week 5-6: Dashboard development, final report preparation and presentation
-Budget:
-The project budget is $20,000. This includes the cost of data analysis tools, consultant fees, and project management expenses.
-Sign-off: ______________
-Wisabi Bank Management
